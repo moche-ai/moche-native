@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/moche-ai/moche-native/main/brand/hero.png" alt="moche — the omni model small enough to be yours" width="100%">
+<img src="https://raw.githubusercontent.com/moche-ai/moche-native/main/brand/hero.gif" alt="moche — the omni model small enough to be yours" width="100%">
 
 <div align="center">
 
